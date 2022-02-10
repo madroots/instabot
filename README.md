@@ -7,3 +7,6 @@ Before start, edit "cas" variable at the beginning of the script - add how many 
 Safe vaule would be 150 - 240 (bot will follow someone every 240 seconds, for example which makes 15 people/hour)
 
 Higher values are dangerous.
+
+
+Credit: CYBER KALLAN: github.com/cyberkallan/inshackle-bot
